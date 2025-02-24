@@ -32,7 +32,7 @@ I'm a passionate **MERN Stack Developer** with a keen interest in building robus
 ## How to Reach Me
 
 - **GitHub:** [@FahadPatel72](https://github.com/FahadPatel72)
-- **Email:** [patelfahad92@gmail.com]
+- **Email:** patelfahad92@gmail.com
 
 ---
 
