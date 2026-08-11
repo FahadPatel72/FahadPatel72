@@ -44,15 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadPatel72&show_icons=true&theme=default&hide_border=true" alt="Fahad's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadPatel72&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 📫 Reach Me
 
 <p align="left">
